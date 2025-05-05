@@ -13,3 +13,7 @@ You can use this repository to practice using Git and GitHub.
 ## Contributors
 
 The whole class.
+
+## License
+
+MIT License
